@@ -1,7 +1,2 @@
-# Rules
-
-No need for branching, push directly into main :)
-
-## TODO:
-
-- visualize individual diseases against service request (grouped bar chart)
+# NOTE
+All project details are included in the [Netebook](Netebook.ipynb)
